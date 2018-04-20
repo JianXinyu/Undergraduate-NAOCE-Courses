@@ -1,0 +1,62 @@
+\begin{thebibliography}{10}
+
+\bibitem{giesing}
+Giesing JP,Smith AMO. Potential flow about two-dimensional hydrofoils mechanics, 1967, 28(1): 113-129.
+
+\bibitem{dai}
+戴遗山，贺五洲，何义，李积德．偶极分布法计算近水面水翼的升力和兴波[J]．中国造船，1989,(2):1-16
+
+
+\bibitem{bal}
+Bal S, Kinnas SA. A BEM for the prediction of free surface effects on cavitating hyfrofoils [J]. Computational Mechanics, 2002, 28(3-4):260-274.
+
+\bibitem{bal2}
+Bal S, Kinnas SA, Lee H. Numerical analysis of 2-D and 3-D cavitationg hydrofoils under a free surface [J]. Journal of Ship Research, 2001, 45(1):34-49.
+
+\bibitem{huang}
+黄胜，任万龙，王粒水翼剖面多目标粒子群算法优化[J].哈尔滨工程大学学报,2014,35(12):1451-1457.
+
+\bibitem{lu}
+鲁传敬，何友声．有限展长水翼的非定常理论[J].力学学报，1986，SI：16-25.
+
+\bibitem{zhang}
+张利军，王言英．基于B样条网格的三维水翼水动力性能研究[J].水动力学研究与进展A辑,2006,21(3):381-387.
+
+
+\bibitem{li}
+李国安,叶恒奎.近水面水翼影响的船舶兴波时域计算研究[J].船舶力学，2006,10(1):43-53.
+
+
+\bibitem{chen}
+陈庆任，叶恒奎，杨向晖，王曦.近自由面三维振动水翼的水动力分析[J]．华中科技大学学报(自然科学版),2011,39(10):28-31.
+
+\bibitem{fal}
+Faltinsen OM, Semenov YA. The effect of gravity and cavitation on a hydrofoil near the free surface[J]. Journal of Fluid Mechanics,2008,597:371-394.
+\bibitem{cheng}
+程闻，鲁传敬，曹嘉怡．波浪对水翼非稳态空泡流动特性的影响硏究[J].水动力学研究与进展A辑,2011,26(6):763-769.
+
+\bibitem{hu}
+胡世良，鲁传敬，陈鑫，陈琪．三维弾性水翼的流固耦合数值模拟[C]山东青岛：第十三届全国水动力学学术会议暨第二十六届全国水动力学研讨会文集,2014,1403-1409.
+
+\bibitem{wang}
+王志东，朱仁庆．近水面航行二维水翼的水动力特性研究[J]．船舶工程,2004,26(3):12-15.
+
+\bibitem{xie}
+谢宜,郑义.粘性流中的近水面三维水冀水动力特性数值分析[J].海军工程大学学报,2011,23(2):22-27.
+
+\bibitem{MSCPatran}
+蒲海,李锋,冷文浩,刘渊,单威俊. 基于MSC.Patran的水翼升力求解方法研究[J]. 船海工程,2007,(06):22-26.
+
+\bibitem{book}
+赵连恩.高性能船舶水动力原理与设计[M].哈尔滨工程大学出版社,2009.
+
+\bibitem{guo}
+郭值学. 高性能船的发展与前景之管见(一)[J]. 中国造船, 2001, 42(4):76-84.
+
+\bibitem{zhang2}
+张大雄. 发展我国高速水翼客艇的探讨[J]. 江苏船舶, 1990(3):8-18.
+
+\bibitem{liu}
+刘胜, 牛鸿敏, 张兰勇. 水翼艇及其控制方法综述[J]. 船舶工程, 2017(9).
+
+\end{thebibliography}

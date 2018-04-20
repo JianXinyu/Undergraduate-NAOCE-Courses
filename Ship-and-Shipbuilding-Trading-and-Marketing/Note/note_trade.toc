@@ -1,0 +1,21 @@
+\contentsline {section}{\numberline {1}Shipping Market Outlook}{2}
+\contentsline {subsection}{\numberline {1.1}国际航运市场概念}{2}
+\contentsline {subsection}{\numberline {1.2}Roles}{3}
+\contentsline {subsection}{\numberline {1.3}国际航运基本市场}{4}
+\contentsline {subsection}{\numberline {1.4}国际航运相关市场}{7}
+\contentsline {subsection}{\numberline {1.5}其他部门}{8}
+\contentsline {subsection}{\numberline {1.6}方便旗}{9}
+\contentsline {subsection}{\numberline {1.7}国际贸易术语k}{9}
+\contentsline {section}{\numberline {2}船舶建造工程报价}{9}
+\contentsline {subsection}{\numberline {2.1}报价的原则和程序!}{9}
+\contentsline {section}{\numberline {3}船舶经济指标及分析}{11}
+\contentsline {section}{\numberline {4}船舶造价估算}{13}
+\contentsline {subsection}{\numberline {4.1}成本组成 k!}{13}
+\contentsline {subsection}{\numberline {4.2}造船成本的估算方法k}{13}
+\contentsline {subsection}{\numberline {4.3}船舶设计参数变化对建造成本的影响}{13}
+\contentsline {section}{\numberline {5}船舶招投标及实务}{13}
+\contentsline {section}{\numberline {6}二手船买卖标准合同}{14}
+\contentsline {section}{\numberline {7}somebody's ppt}{15}
+\contentsline {subsection}{\numberline {7.1}市场结构k}{15}
+\contentsline {subsection}{\numberline {7.2}Shipping Cycle}{15}
+\contentsline {section}{\numberline {8}Complementary}{16}
