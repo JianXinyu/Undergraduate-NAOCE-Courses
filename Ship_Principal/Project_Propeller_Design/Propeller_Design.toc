@@ -1,0 +1,27 @@
+\contentsline {section}{\numberline {1}Introduction}{2}
+\contentsline {section}{\numberline {2}Data}{2}
+\contentsline {subsection}{\numberline {2.1}Main Parameters of the Container Ship}{2}
+\contentsline {subsection}{\numberline {2.2}Parameters of Main Engine and Propeller}{3}
+\contentsline {subsection}{\numberline {2.3}Design Conditions}{3}
+\contentsline {subsection}{\numberline {2.4}Propulsive Factors}{3}
+\contentsline {section}{\numberline {3}Design for Maximum Ship Speed}{3}
+\contentsline {subsection}{\numberline {3.1}Related Parameters}{3}
+\contentsline {subsection}{\numberline {3.2}Assume Parameters}{4}
+\contentsline {section}{\numberline {4}Cavitation Check}{4}
+\contentsline {subsection}{\numberline {4.1}Related Parameters}{4}
+\contentsline {section}{\numberline {5}Strength Check}{7}
+\contentsline {subsection}{\numberline {5.1}Power Coefficient}{7}
+\contentsline {subsection}{\numberline {5.2}Rotate Speed Coefficient}{7}
+\contentsline {section}{\numberline {6}Pitch Ratio Modification}{8}
+\contentsline {subsection}{\numberline {6.1}Different Hub to Diameter Ratios}{8}
+\contentsline {subsection}{\numberline {6.2}Different Blade Thickness Ratios}{8}
+\contentsline {subsection}{\numberline {6.3}Final Pitch Ratio}{9}
+\contentsline {section}{\numberline {7}Calculation of Weight and Inertia Moment}{9}
+\contentsline {subsection}{\numberline {7.1}The Weight and Length}{9}
+\contentsline {subsection}{\numberline {7.2}Inertia}{9}
+\contentsline {section}{\numberline {8}Open Water Graph of Propeller}{9}
+\contentsline {section}{\numberline {9}Calculation of the Tied Column}{10}
+\contentsline {section}{\numberline {10}Calculation of the Cruising Characters}{10}
+\contentsline {section}{\numberline {11}Conclusion}{12}
+\contentsline {section}{\numberline {A}Code}{12}
+\contentsline {section}{\numberline {B}Cavitation Check Caculation Sheet}{17}
