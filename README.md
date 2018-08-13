@@ -1,7 +1,7 @@
 # Course-Notes
 Shanghai Jiaotong University School of Civil Architecture and Ocean Engineering
 
-目前包括六门课程的笔记或project:
+目前包括八门课程的笔记或project:
 
 高性能船概论-Course Paper
 
