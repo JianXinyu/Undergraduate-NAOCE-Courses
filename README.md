@@ -3,16 +3,18 @@ Shanghai Jiaotong University School of Civil Architecture and Ocean Engineering
 
 目前包括六门课程的笔记或project:
 
-高性能船概论
+高性能船概论-Course Paper
 
-海洋工程环境学
+海洋工程环境学-Notes
 
-船舶贸易与经营
+船舶贸易与经营-Notes&Project
 
-船舶原理
+船舶原理-推进部分 Propeller Design Project
 
-水下作业系统
+船舶原理实验-Experiment Reports
 
-现代造船技术
+水下作业系统-Project
 
-每个文件夹中有readme
+现代造船技术-Project
+
+海工试验-Experiment Report
